@@ -106,7 +106,7 @@ class ConfigurationManager:
             all_params=params,
             metric_file_name = config.metric_file_name,
             target_column = schema.name,
-            mlflow_uri="https://dagshub.com/entbappy/End-to-end-Machine-Learning-Project-with-MLflow.mlflow",
+            mlflow_uri="https://dagshub.com/abhishekanand-02/End-to-end-Machine-Learning-Project-with-MLFLOW.mlflow",
            
         )
 
