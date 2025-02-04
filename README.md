@@ -13,3 +13,27 @@
 8. Update the main.py
 9. Update the app.py
 
+# How to run?
+### STEPS:
+
+Clone the repository
+
+```bash
+https://github.com/abhishekanand-02/End-to-end-Machine-Learning-Project-with-MLFLOW.git
+```
+### STEP 01- Create a conda environment after opening the repository
+
+```bash
+conda create -n mlproj python
+```
+
+```bash
+conda activate mlproj
+```
+
+
+### STEP 02- install the requirements
+```bash
+pip install -r requirements.txt
+```
+

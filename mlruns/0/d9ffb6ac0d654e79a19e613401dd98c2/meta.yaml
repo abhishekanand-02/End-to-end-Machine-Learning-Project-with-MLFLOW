@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abhishek.anand/End-to-end-Machine-Learning-Project-with-MLFLOW/mlruns/0/d9ffb6ac0d654e79a19e613401dd98c2/artifacts
+end_time: 1738671137107
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d9ffb6ac0d654e79a19e613401dd98c2
+run_name: righteous-mare-19
+run_uuid: d9ffb6ac0d654e79a19e613401dd98c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738671134579
+status: 3
+tags: []
+user_id: abhishek.anand
