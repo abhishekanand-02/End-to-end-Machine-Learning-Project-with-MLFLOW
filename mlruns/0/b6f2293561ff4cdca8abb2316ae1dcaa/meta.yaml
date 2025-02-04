@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abhishek.anand/End-to-end-Machine-Learning-Project-with-MLFLOW/mlruns/0/b6f2293561ff4cdca8abb2316ae1dcaa/artifacts
+end_time: 1738670693025
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b6f2293561ff4cdca8abb2316ae1dcaa
+run_name: marvelous-robin-259
+run_uuid: b6f2293561ff4cdca8abb2316ae1dcaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738670690614
+status: 3
+tags: []
+user_id: abhishek.anand
