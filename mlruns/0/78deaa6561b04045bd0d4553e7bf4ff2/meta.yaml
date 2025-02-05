@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abhishek.anand/End-to-end-Machine-Learning-Project-with-MLFLOW/mlruns/0/78deaa6561b04045bd0d4553e7bf4ff2/artifacts
+end_time: 1738734530398
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 78deaa6561b04045bd0d4553e7bf4ff2
+run_name: clean-wren-391
+run_uuid: 78deaa6561b04045bd0d4553e7bf4ff2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738734526661
+status: 3
+tags: []
+user_id: abhishek.anand

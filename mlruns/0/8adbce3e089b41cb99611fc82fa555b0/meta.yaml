@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abhishek.anand/End-to-end-Machine-Learning-Project-with-MLFLOW/mlruns/0/8adbce3e089b41cb99611fc82fa555b0/artifacts
+end_time: 1738732993764
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8adbce3e089b41cb99611fc82fa555b0
+run_name: likeable-bug-498
+run_uuid: 8adbce3e089b41cb99611fc82fa555b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738732990517
+status: 3
+tags: []
+user_id: abhishek.anand
